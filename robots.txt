@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://archero455-cmyk.github.io/luis-r-tapia-art/sitemap.xml

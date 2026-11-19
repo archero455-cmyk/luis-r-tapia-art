@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "the-legendary-voodoo-child",
+    "title": "The Legendary Voodoo Child",
+    "medium": "Original painting on canvas",
+    "size": "35 × 42 in",
+    "year": "",
+    "extra": "Unframed",
+    "price": 800,
+    "paypal": "XKKPZL4QJXKEE",
+    "type": "shop",
+    "photo": "images/the-legendary-voodoo-child.jpg"
+  },
+  {
+    "slug": "the-face-of-progress",
+    "title": "The Face Of Progress",
+    "medium": "Original painting",
+    "size": "47 × 31 in",
+    "year": "",
+    "extra": "",
+    "price": 500,
+    "paypal": "AJF43S8CUVQ8W",
+    "type": "shop",
+    "photo": "images/the-face-of-progress.jpg"
+  },
+  {
+    "slug": "the-guitarist",
+    "title": "The Guitarist",
+    "medium": "Original painting",
+    "size": "16 × 20 in",
+    "year": "",
+    "extra": "",
+    "price": 250,
+    "paypal": "M6YBXDRSSQ5JY",
+    "type": "shop",
+    "photo": "images/the-guitarist.jpg"
+  },
+  {
+    "slug": "beauty-on-the-beach",
+    "title": "Beauty On The Beach",
+    "medium": "Oceana Beach Collection · Acrylic on canvas",
+    "size": "50 × 33 in",
+    "year": "2026",
+    "extra": "",
+    "price": 400,
+    "paypal": "B98DTZ7HMZLP4",
+    "type": "shop",
+    "photo": "images/beauty-on-the-beach.jpg"
+  },
+  {
+    "slug": "at-the-moment-of-impact",
+    "title": "At the Moment of Impact",
+    "medium": "Original mixed media painting",
+    "size": "20 × 24 in",
+    "year": "",
+    "extra": "",
+    "price": 300,
+    "paypal": "B7A382AVPZ3LA",
+    "type": "shop",
+    "photo": "images/at-the-moment-of-impact.jpg"
+  },
+  {
+    "slug": "saxophone-player",
+    "title": "Saxophone Player",
+    "medium": "Original mixed media painting",
+    "size": "18 × 24 in",
+    "year": "",
+    "extra": "",
+    "price": 300,
+    "paypal": "24BT8S6H4BQK8",
+    "type": "shop",
+    "photo": "images/saxophone-player.jpg"
+  },
+  {
+    "slug": "ocean-front",
+    "title": "Ocean Front",
+    "medium": "Mixed media",
+    "size": "45 × 37 in",
+    "year": "",
+    "extra": "",
+    "price": null,
+    "paypal": null,
+    "type": "inquiry",
+    "photo": "images/ocean-front.jpg"
+  },
+  {
+    "slug": "floridas-musician-saxophonist",
+    "title": "Florida’s Musician Saxophonist",
+    "medium": "Mixed media",
+    "size": "18 × 24 in",
+    "year": "",
+    "extra": "",
+    "price": null,
+    "paypal": null,
+    "type": "inquiry",
+    "photo": "images/floridas-musician-saxophonist.jpg"
+  },
+  {
+    "slug": "flamingo-bird",
+    "title": "Flamingo Bird",
+    "medium": "Mixed media",
+    "size": "11 × 14 in",
+    "year": "",
+    "extra": "",
+    "price": null,
+    "paypal": null,
+    "type": "inquiry",
+    "photo": "images/flamingo-bird.jpg"
+  }
+]
